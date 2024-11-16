@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "field-focus"
+version = "0.1.0"
+description = ""
+authors = ["JeremRav <jeremyrava@outlook.fr>"]
+license = "Apache License 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
